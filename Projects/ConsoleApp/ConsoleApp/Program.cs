@@ -1,2 +1,5 @@
 ﻿using System;
-Console.WriteLine("");
+using ConsoleApp.Calculator;
+
+
+Calculator.RunApp();
