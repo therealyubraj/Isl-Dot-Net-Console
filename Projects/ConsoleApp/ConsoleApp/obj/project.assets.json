@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Islington\\NET\\Projects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "D:\\Islington\\NET\\Isl-Dot-Net-Console\\Projects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "D:\\Islington\\NET\\Projects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "D:\\Islington\\NET\\Isl-Dot-Net-Console\\Projects\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\UV\\.nuget\\packages\\",
-      "outputPath": "D:\\Islington\\NET\\Projects\\ConsoleApp\\ConsoleApp\\obj\\",
+      "outputPath": "D:\\Islington\\NET\\Isl-Dot-Net-Console\\Projects\\ConsoleApp\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
